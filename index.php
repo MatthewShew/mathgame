@@ -31,6 +31,10 @@
 			      <div class="col-xs-4 right">Password:</div>
 			      <div class="col-xs-4"><input type="text" name="password" size="25"/ placeholder="Password"></div>
     			</div>
+          <div class="row">
+            <h6>Email: a@a.a</h6>
+            <h6>Password: aaa</h6>
+          </div>
     			<div class="row text-center">
       			<div class="col-xs-12"><input type="submit" class="blue" name="submit" value="Login" /></div>
       		</div>
