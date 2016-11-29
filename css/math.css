@@ -1,0 +1,52 @@
+.bold{
+	font-size: 50px;
+	text-align: center;
+}
+
+.center{
+	margin: auto;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+.right{
+	font-weight: bold;
+	text-align: right;
+}
+
+form .row{
+	margin-top: 5px;
+}
+
+.blue {
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+}
+
+button{
+	background-color: green;
+	border-radius: 10px;
+	color: white;
+}
+
+.invalid{
+	text-align: center;
+	color: red;
+}
+
+.r{
+	color: green;
+}
+
+.w{
+	color: red;
+}
+
+.info{
+	text-align: center;
+	font-size: 20px;
+}
