@@ -6,7 +6,7 @@
       header("Location: mathgame.php");
       exit();   
 		} else {
-      $invalid = "Invalid login credentials.";
+      $invalid = "Invalid login credentials. ";
     }
 	}
 ?>
